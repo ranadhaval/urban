@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "371168241385",
+    "project_id": "urban-3660d",
+    "storage_bucket": "urban-3660d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371168241385:android:8f7f7d1d7a9a7fe37cb278",
+        "android_client_info": {
+          "package_name": "com.example.urban"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371168241385-2k3lefo3hpkaaqmg8je1tbj934ov41m5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.urban",
+            "certificate_hash": "a8c8f57d2b1a255747195422a463bc2b583f8bae"
+          }
+        },
+        {
+          "client_id": "371168241385-t6dflq89qmmf6d8o104fr2afduuhom77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwgcriz4Mgg4PKgHysmYEZM_-pPNEI9mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371168241385-t6dflq89qmmf6d8o104fr2afduuhom77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
